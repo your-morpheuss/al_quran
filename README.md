@@ -179,7 +179,7 @@ This project is licensed under the MIT License.
 
 ## 💼 Connect
 
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/shehryarkhandiv)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/shehriyarkhantech)
 - **GitHub**: [GitHub](https://github.com/Shehryar-dev)
 - **Twitter**: [X Account](https://x.com/Morphues_S)
 - **Portfolio**: [Portfolio](https://shehriyar-portfolio-v2.netlify.app/)
