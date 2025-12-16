@@ -45,7 +45,7 @@ The UI design of the app is inspired by a Dribbble concept: [Quran App Concept](
 ![Dribble Ui](assets/app%20screenshot/dribble_ui.png)
 
 ---
-## Repo Flow Diagram
+## Repo & App Flow Diagram
 ![Flow](assets/app%20screenshot/flow_diagram.png)
 ![Flow](assets/app%20screenshot/flow_diagram1.png)
 
@@ -179,7 +179,7 @@ This project is licensed under the MIT License.
 
 ## 💼 Connect
 
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/shehryarkhandiv)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/shehriyarkhantech)
 - **GitHub**: [GitHub](https://github.com/Shehryar-dev)
 - **Twitter**: [X Account](https://x.com/Morphues_S)
 - **Portfolio**: [Portfolio](https://shehriyar-portfolio-v2.netlify.app/)
