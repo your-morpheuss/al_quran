@@ -2,9 +2,7 @@ import 'dart:io';
 import 'package:al_quran/core/resources/constants/screen_path.dart';
 import 'package:device_preview/device_preview.dart';
 
-
-void main()  async{
-
+void main() async {
   await Hive.initFlutter();
   serviceLocator();
   await Hive.openBox('tasbeehBox');
@@ -21,20 +19,3 @@ void main()  async{
     runApp(MyApp());
   }
 }
-
-
-
-
-
-// await Hive.openBox('last_read');
-// void fetchData() async {
-//   Uri uri = Uri.parse("https://cdn.jsdelivr.net/npm/quran-json@3.1.2/dist/chapters/ur/index.json");
-//
-//   final response = await http.get(uri);
-//
-//   if (response.statusCode == 200) {
-//     print("Data fetched successfully!");
-//   } else {
-//     print("Error: ${response.statusCode}");
-//   }
-// }

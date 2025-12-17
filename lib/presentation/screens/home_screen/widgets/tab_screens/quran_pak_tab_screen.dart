@@ -81,7 +81,7 @@ class QuranHomeScreen extends StatelessWidget {
                 Navigator.pushNamed(context, RoutesNames.quranPakScreen);
               },
               style: ElevatedButton.styleFrom(
-                padding: EdgeInsets.symmetric(horizontal: 40, vertical: 15),
+                padding: EdgeInsets.symmetric(horizontal: 40, vertical: 19),
                 shape: RoundedRectangleBorder(
                   borderRadius: BorderRadius.circular(12),
                 ),
