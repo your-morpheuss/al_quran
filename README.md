@@ -152,7 +152,7 @@ The UI design of the app is inspired by a Dribbble concept: [Quran App Concept](
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Shehryar-dev/al_quran.git
+   git clone https://github.com/your-morpheuss/al_quran.git
    ```
 2. Navigate to the project directory:
    ```sh
@@ -179,7 +179,7 @@ This project is licensed under the MIT License.
 
 ## 💼 Connect
 
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/shehriyarkhantech)
-- **GitHub**: [GitHub](https://github.com/Shehryar-dev)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/shehriyarkhantech/)
+- **GitHub**: [GitHub](https://github.com/your-morpheuss)
 - **Twitter**: [X Account](https://x.com/Morphues_S)
 - **Portfolio**: [Portfolio](https://shehriyar-portfolio-v2.netlify.app/)
